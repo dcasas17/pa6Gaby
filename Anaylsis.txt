@@ -1,0 +1,8 @@
+Image craneComp will switch the green and blue color so the background color will be switched to blue while the shadows on the crane will have the greenish tone.
+Image checkerComp will switch green and blue color.
+
+Image craneChrom will make the crane image have a shade from the mint scale.
+Image checkerChrom will make the crane image have a shade from the lavender scale.
+
+Image testGrad gives me an 8x8 square with a gradient staring from lavender to mint.
+Image testingGrad gives me an 15x15 square with a gradient staring from mint to lavender.
